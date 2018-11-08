@@ -1,0 +1,22 @@
+{
+  "home": [],
+  "about": [],
+  "discret": [
+    { "label": "Множества и отношения",
+      "children": [
+        { "label": "Множества" },
+        { "label": "Алгебра подмножеств" }
+      ]
+    },
+    { "label": "Алгебраические структуры",
+      "children": [
+        { "label": "Алгебры и морфизмы" },
+        { "label": "Алгебры с одной операцией" }
+      ]
+    }
+  ],
+  "english": [
+    { "label": "Present simple" },
+    { "label": "Present continious" }
+  ]
+}

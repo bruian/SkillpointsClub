@@ -1,4 +1,4 @@
-# vue-math
+# SkillPoints.club
 
 ## Project setup
 ```
