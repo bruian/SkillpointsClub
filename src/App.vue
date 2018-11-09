@@ -42,7 +42,21 @@
           <b-row>
             <b-col>
               <div class="dictionary">
-                <h3>Словарь</h3>
+                <h4>Словарь</h4>
+              </div>
+            </b-col>
+          </b-row>
+          <b-row>
+            <b-col>
+              <div class="dictionary">
+                <h4>Закрепление материала</h4>
+              </div>
+            </b-col>
+          </b-row>
+          <b-row>
+            <b-col>
+              <div class="dictionary">
+                <h4>Чат с преподавателем</h4>
               </div>
             </b-col>
           </b-row>
